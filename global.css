@@ -131,7 +131,6 @@ code {
 /* Banner */
 
 	#banner {
-		background-image: url("/prairiegarden-siergrassen.jpg");
 		/*background-size: 100px 100px, cover;*/
 		background-size: cover;
 		color: rgba(255, 255, 255, 0.5);
